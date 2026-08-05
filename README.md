@@ -3,8 +3,8 @@
 REMOTE  
 folder: StandaloneWindows64  
                                                              
-tag: v0.1.6                                                                   
-catalog_1.hash -> eecebf05738470cf92d0cfbf5fc06cad                      
+tag: v0.1.7                                                                   
+catalog_1.hash -> 66b28ec99cba4dc3da0edabd396de9c4                     
 catalog_1.json 
        																  
-tag: v0.1.6    
+tag: v0.1.7   
